@@ -116,3 +116,4 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
 - [Supasus's Solution](https://supasus.github.io/js-tictactoe/) - [View in Browser](https://github.com/supasus/js-tictactoe)
 </details>
 - [mmboyce's Solution](https://github.com/mmboyce/tic-tac-toe/) - [View in Browser](https://mmboyce.github.io/tic-tac-toe/)
+- [octavian's Solution](https://github.com/octaviandd/tic-tac-toe/) - [View in Browser](https://octaviandd.github.io/tic-tac-toe/)
